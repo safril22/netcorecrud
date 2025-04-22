@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\safriltest1.props" />
+</Project>
