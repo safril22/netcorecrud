@@ -53,6 +53,7 @@ namespace safriltest1.BusinessLogic
 
         public static bool UpdateTestingName(TestingName testingName)
         {
+            // add comment
             try
             {
                 string query = "UPDATE TestingName SET Name = @Name WHERE ID = @ID;";

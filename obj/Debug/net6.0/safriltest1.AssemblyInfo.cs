@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("safriltest1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33123e8a8754f88ac674dad1740c35b12fb3b28d")]
 [assembly: System.Reflection.AssemblyProductAttribute("safriltest1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("safriltest1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
